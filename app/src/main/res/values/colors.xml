@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="common_title_bg">#FF0000</color>
+    <color name="common_ui_bg">#F0F0F0</color>
+
+    <drawable name="text_press">#999999</drawable>
+    <drawable name="image_press">#50000000</drawable>
+
+    <color name="tab_text">#A2A2A2</color>
+    <color name="tab_text_press">#2D6EFA</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
