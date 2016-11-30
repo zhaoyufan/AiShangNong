@@ -10,6 +10,7 @@ import com.upic.aishangnong.ui.base.BaseActivity;
  */
 
 public class LoginActivity extends BaseActivity{
+//    private Button
     @Override
     public int getContentView() {
         return R.layout.activity_login;
